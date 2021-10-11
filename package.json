@@ -1,0 +1,19 @@
+{
+  "name": "@jsalio/test-publish-pkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsalio/test-publish-pkg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsalio/test-publish-pkg/issues"
+  },
+  "homepage": "https://github.com/jsalio/test-publish-pkg#readme"
+}
